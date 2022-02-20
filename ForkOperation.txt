@@ -1,0 +1,3 @@
+A fork is a copy of a repository that you manage.
+Forks let you make changes to a project without affecting the original repository.
+You can fetch updates from or submit changes to the original repository with pull requests.
